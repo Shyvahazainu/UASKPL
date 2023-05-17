@@ -30,7 +30,7 @@ public class test {
 		DesiredCapabilities cap = new DesiredCapabilities();
 		
 		cap.setCapability("deviceName","Pixel 5 API 24");
-		cap.setCapability("udid", "emulator-5556");
+		cap.setCapability("udid", "emulator-5554");
 		cap.setCapability("platformName", "Android");
 		cap.setCapability("platformVersion", "7.0");
 		
